@@ -1,1 +1,1 @@
-# HSI_classification
+# Hyper spectral Image classification Mini-project
